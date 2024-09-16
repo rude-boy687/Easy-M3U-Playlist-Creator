@@ -106,7 +106,7 @@ def open_url1():
     webbrowser.open(url)
     
 def open_url2():
-    url = "https://github.com/imrsaleh/Easy-M3U-Playlist-Creator"
+    # url = "https://github.com/watchiptv.xyz/Easy-M3U-Playlist-Creator"
     webbrowser.open(url)
 
 # إعداد النافذة
